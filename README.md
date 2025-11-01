@@ -8,35 +8,68 @@ Over the years, I have honed my skills in UI/UX and frontend development using t
 <table >
   <tr>
     <td >
-      <img src="images/flutter.png" alt="Flutter" width="50"/><br/>Flutter
+      <img src="images/flutter.png" alt="Flutter" width="50"/>
     </td>
     <td></td>
     <td >
-      <img src="images/dart.png" alt="Dart" width="50"/><br/>Dart
+      <img src="images/dart.png" alt="Dart" width="50"/>
     </td>
     <td></td>
     <td >
-      <img src="images/swiftui.png" alt="SwiftUI" width="50"/><br/>SwiftUI
+      <img src="images/swiftui.png" alt="SwiftUI" width="50"/>
     </td>
     <td></td>
     <td >
-      <img src="images/firebase.png" alt="Firebase" width="50"/><br/>Firebase
+      <img src="images/firebase.png" alt="Firebase" width="50"/>
     </td>
     <td></td>
     <td >
-      <img src="images/sql.webp" alt="SQL" width="50"/><br/>SQL
+      <img src="images/sql.webp" alt="SQL" width="50"/>
     </td>
     <td></td>
     <td >
-      <img src="images/figma.png" alt="Figma" width="50"/><br/>Figma
+      <img src="images/figma.png" alt="Figma" width="50"/>
     </td>
     <td></td>
     <td >
-      <img src="images/nodejs.png" alt="Node.js" width="50"/><br/>Node.js
+      <img src="images/nodejs.png" alt="Node.js" width="50"/>
     </td>
     <td></td>
     <td >
-      <img src="images/git.png" alt="Git" width="50"/><br/>Git
+      <img src="images/git.png" alt="Git" width="50"/>
+    </td>
+  </tr>
+    <tr>
+    <td >
+      Flutter
+    </td>
+    <td></td>
+    <td >
+      Dart
+    </td>
+    <td></td>
+    <td >
+      SwiftUI
+    </td>
+    <td></td>
+    <td >
+      Firebase
+    </td>
+    <td></td>
+    <td >
+      SQL
+    </td>
+    <td></td>
+    <td >
+      Figma
+    </td>
+    <td></td>
+    <td >
+      Node.js
+    </td>
+    <td></td>
+    <td >
+      Git
     </td>
   </tr>
 </table>
